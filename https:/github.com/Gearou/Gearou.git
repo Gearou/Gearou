@@ -1,0 +1,153 @@
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Yudha X Kamto</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    <link rel="icon" href="./favicon.ico" type="image/x-icon">
+  </head>
+  <body>
+    <div>
+      <!~~~ Navbar ~~~>
+      <div>
+     <nav class="navbar bg-dark"data-bs-theme="dark">
+      <div class="container-fluid">
+        <a class="navbar-brand">BDG Home</a>
+        <form class="d-flex" role="search">
+          <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+          <button class="btn btn-outline-secondary" type="submit">Cari
+          </button>
+        </form>
+      </div>
+    </nav>
+      </div>
+      <!~~~ Navbar end ~~~>
+      
+      <!~~~ Carousel ~~~>
+    <div id="carouselExample" class="carousel slide">
+      <div class="carousel-inner">
+        <div class="carousel-item active">
+          <img src="Gambar1.jpeg" class="d-block w-100" alt="...">
+        </div>
+        <div class="carousel-item">
+          <img src="Gambar2.jpeg" class="d-block w-100" alt="...">
+        </div>
+        <div class="carousel-item">
+          <img src="Gambar3.jpeg" class="d-block w-100" alt="...">
+        </div>
+      </div>
+      <button class="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Previous</span>
+      </button>
+      <button class="carousel-control-next" type="button" data-bs-target="#carouselExample" data-bs-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Next</span>
+      </button>
+    </div>
+      <!~~~ Carousel end ~~~>
+      
+      <!~~~ Card ~~~>
+    <div class="container">
+    <div class="row">
+    <div class="card col-sm-3">
+      <div class="card-body">
+        <h5 class="card-title"> Jasa Sikat Gigi</h5>
+        <img src="Gambar4.jpeg" class="img-thumbnail" alt="...">
+        <p class="card-text">Penah malas sikat gigi? tenang kami siap menyelesaiakan masalah anda!!</p>
+        <a href="https://youtu.be/dQw4w9WgXcQ" class="btn btn-outline-dark">Selengkapnya</a>
+      </div>
+    </div>
+    <div class="card col-sm-3">
+      <div class="card-body">
+        <h5 class="card-title">Uli Pelumas Koh Jerremi</h5>
+        <img src="Gambar5.jpeg" class="img-thumbnail" alt="...">
+        <p class="card-text">Bukan cuma motor yg perlu... pikirkan dirimu, gunakan pelumas ku!!</p>
+        <a href="https://Nhentai.net/177013" class="btn btn-outline-dark">Selengkapnya</a>
+      </div>
+    </div>
+    <div class="card col-sm-3">
+      <div class="card-body">
+        <h5 class="card-title">Oprator Serba Bisa</h5>
+        <img src="Gambar6.jpeg" class="img-thumbnail" alt="...">
+        <p class="card-text">Hallo saya jonhy sins... siap melayani jasa Plumber, Polisi, Dokter, dan lain²</p>
+        <a href="https://Pornhub.com/" class="btn btn-outline-dark">Selengkapnya</a>
+      </div>
+     <div class="card col-sm-3">
+      <div class="card-body">
+        <h5 class="card-title">Robot anjing</h5>
+        <img src="Gambar7.jpeg" class="img-thumbnail" alt="...">
+        <p class="card-text">Menjaga peliharaan betulan sangat sulit? tenang sekatang ada robot anjing</p>
+        <a href="https://Pornhub.com/" class="btn btn-outline-dark">Selengkapnya</a>
+     </div>
+    </div>
+    </div>
+    </div>
+      <!~~ Card end ~~>
+      
+      <!-- Footer -->
+<footer class="bg-dark text-center text-white">
+  <!-- Grid container -->
+  <div class="container p-1">
+    <!-- Section: Form -->
+    <section class="">
+      <form action="">
+        <!--Grid row-->
+        <div class="row d-flex justify-content-center">
+          <!--Grid column-->
+          <div class="col-auto">
+            <p class="pt-2">
+              <strong>Sign up for our newsletter</strong>
+            </p>
+          </div>
+          <!--Grid column-->
+
+          <!--Grid column-->
+          <div class="col-md-5 col-12">
+            <!-- Email input -->
+            <div class="form-outline form-white mb-4">
+              <input type="email" id="form5Example21" class="form-control" />
+              <label class="form-label" for="form5Example21">Email address</label>
+            </div>
+          </div>
+          <!--Grid column-->
+
+          <!--Grid column-->
+          <div class="col-auto">
+            <!-- Submit button -->
+            <button type="submit" class="btn btn-outline-secondary mb-4">
+              Subscribe
+            </button>
+          </div>
+          <!--Grid column-->
+        </div>
+        <!--Grid row-->
+      </form>
+    </section>
+    <!-- Section: Form -->
+
+    <!-- Section: Text -->
+    <section class="mb-4">
+      <p>
+        Terimakasih karna telah mengunjungi website amatiran buatan saya. tujuam web ini dibuat adalah untuk latihan dan besenang² menggunakan bootstrap yg baru saja saya pelajari. Sampai jumpa di project saya yg selanjutnya.
+      </p>
+    </section>
+    <!-- Section: Text -->
+  </div>
+  <!-- Grid container -->
+
+  <!-- Copyright -->
+  <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.2);">
+    © 2023 Copyright:
+    <a class="text-white" href="#">Aprandje Gearou</a>
+  </div>
+  <!-- Copyright -->
+</footer>
+<!-- Footer -->
+    </div>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+  </body>
+</html>
+
+
